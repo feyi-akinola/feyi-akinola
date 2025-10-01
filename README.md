@@ -10,15 +10,15 @@ I specialize in modern web technologies to create seamless digital experiences. 
 
 🛠️ Technologies I Use
 
-Languages: HTML, CSS, JavaScript, TypeScript
+Languages: HTML, CSS, JavaScript, TypeScript, Dart, SQL, Python
 
-Frameworks & Libraries: React, Next.js
+Frameworks & Libraries: React, React Native, Next.js, Flutter
 
-Styling Tools: Tailwind CSS, SASS/SCSS
+Styling Tools: Tailwind CSS
 
 State Management: Zustand
 
-Others: Axios, REST APIs, GraphQL
+Others: Axios, REST APIs, PostgreSQL, Figma
 
 
 📂 What You’ll Find Here
