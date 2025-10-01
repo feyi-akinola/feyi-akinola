@@ -18,7 +18,7 @@ Styling Tools: Tailwind CSS
 
 State Management: Zustand
 
-Others: Axios, REST APIs, PostgreSQL, Figma
+Others: Axios, REST APIs, PostgreSQL, Figma, Postman
 
 
 📂 What You’ll Find Here
