@@ -1,4 +1,4 @@
-🌐 Full-Stack Software Engineer Portfolio
+🌐 Front-end Software Engineer Portfolio
 
 👋 Hi there, I’m Feyi, a passionate front-end software engineer dedicated to crafting responsive, user-friendly, and visually appealing web applications.
 
